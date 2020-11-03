@@ -25,6 +25,13 @@ html {
     color: white;
 }
 
+.fb-login-button {
+    display: flex;
+    margin-left: 18%;
+    justify-content: center;
+    margin-top: 10%;
+}
+
 .title {
     margin-top: 20rem;
     margin-right: 3rem;
